@@ -16,21 +16,13 @@ I enjoy turning real-world problems into practical digital solutions using moder
 ---
 
 ## 🛠️ Tech Stack
-**Frontend**
-- HTML5, CSS3, JavaScript
-- Bootstrap, Tailwind CSS
-- Responsive & Mobile-First Design
-
-**Backend**
-- PHP (Vanilla PHP)
-- MySQL / Database Design
-- RESTful APIs
-
-**Tools & Others**
-- Git & GitHub
-- Postman
-- VS Code
-- Basic Linux Commands
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-darkgreen)
 
 ---
 
