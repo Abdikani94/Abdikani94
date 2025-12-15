@@ -57,3 +57,8 @@ I enjoy turning real-world problems into practical digital solutions using moder
 ---
 
 ⭐ *Feel free to explore my repositories and follow my journey as I grow in web development.*
+
+
+## 📊 GitHub Stats
+![Abdikani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdikani94&show_icons=true&theme=default)
+
