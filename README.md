@@ -16,13 +16,21 @@ I enjoy turning real-world problems into practical digital solutions using moder
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-black)
 ![GitHub](https://img.shields.io/badge/GitHub-darkgreen)
+![Postman](https://img.shields.io/badge/Postman-orange)
+
 
 ---
 
