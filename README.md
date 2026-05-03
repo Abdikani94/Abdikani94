@@ -136,7 +136,7 @@ $ cat current_goals.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abdikani94-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdikani94)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdikani94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abdi-kani-mohamed-0305843a7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Abdikani94)
 
 </div>
