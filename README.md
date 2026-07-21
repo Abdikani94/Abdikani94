@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Abdikani+%F0%9F%91%8B;Full-Stack+Developer; Computer Science Graduate;Building+Things+That+Matter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Abdikani+%F0%9F%91%8B;Full-Stack+Developer;Computer Science Graduate;Building+Things+That+Matter" alt="Typing SVG" /></a>
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=header&text=&animation=twinkling"/>
@@ -123,10 +123,10 @@ const abdikani = {
 ```bash
 $ cat current_goals.txt
 
-[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50% → Improving Full-Stack Development Skills
-[▓▓▓▓▓▓▓░░░░░░░░░░░░░] 35% → Building Production-Ready Projects
-[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% → Learning System Design and DevOps
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% → Contributing to Open-Source Projects
+* Building production-ready full-stack applications
+* Improving system design and backend architecture
+* Exploring practical AI and data analytics solutions
+* Contributing to open-source projects
 ```
 
 ---
