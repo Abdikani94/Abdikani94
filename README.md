@@ -18,9 +18,9 @@
 ║  ┌─────────────────────────────────────────────────────┐     ║
 ║  │  Name    : Abdikani                                 │     ║
 ║  │  Role    : Full-Stack Developer                     │     ║
-║  │  Status  :Computer Science Graduate │     ║
+║  │  Status  :Computer Science Graduate │                     ║
 ║  │  Focus   : Building scalable web applications       │     ║
-║  │  Based   : Mogadisho, Somalia 🌍                                 │     ║
+║  │  Based   : Mogadisho,Somalia🌍                      │     ║
 ║  └─────────────────────────────────────────────────────┘     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
