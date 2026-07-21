@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Abdikani+%F0%9F%91%8B;Full-Stack+Developer;Final+Year+CS+Student;Building+Things+That+Matter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Abdikani+%F0%9F%91%8B;Full-Stack+Developer; Computer Science Graduate;Building+Things+That+Matter" alt="Typing SVG" /></a>
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=header&text=&animation=twinkling"/>
@@ -18,9 +18,9 @@
 ║  ┌─────────────────────────────────────────────────────┐     ║
 ║  │  Name    : Abdikani                                 │     ║
 ║  │  Role    : Full-Stack Developer                     │     ║
-║  │  Status  :Computer Science Graduate │                     ║
+║  │  Status  : Computer Science Graduate                │     ║
 ║  │  Focus   : Building scalable web applications       │     ║
-║  │  Based   : Mogadisho,Somalia🌍                      │     ║
+║  │  Based   : Mogadisho, Somalia🌍                     │     ║
 ║  └─────────────────────────────────────────────────────┘     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -33,11 +33,11 @@
 
 ```javascript
 const abdikani = {
-  title: "Full-Stack Developer & CS Final Year Student",
-  passion: ["Clean Code", "Scalable Architecture", "Problem Solving"],
-  currentlyLearning: ["System Design", "Cloud Infrastructure", "DevOps"],
-  goal: "Build products that make a real impact",
-  funFact: "I debug best at 2am ☕",
+  title: "Full-Stack Developer & Computer Science Graduate",
+  focus: ["Full-Stack Development", "AI", "Data Analytics"],
+  technologies: ["React", "Node.js", "TypeScript", "Python"],
+  currentlyLearning: ["System Design", "Cloud Computing", "DevOps"],
+  goal: "Build practical and scalable digital solutions",
 };
 ```
 
@@ -123,10 +123,10 @@ const abdikani = {
 ```bash
 $ cat current_goals.txt
 
-[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50% → Finishing Final Year Project
-[▓▓▓▓▓▓▓░░░░░░░░░░░░░] 35% → Mastering System Design
-[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% → Building Full-Stack Portfolio Projects
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% → Open Source Contributions
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50% → Improving Full-Stack Development Skills
+[▓▓▓▓▓▓▓░░░░░░░░░░░░░] 35% → Building Production-Ready Projects
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60% → Learning System Design and DevOps
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% → Contributing to Open-Source Projects
 ```
 
 ---
