@@ -4,10 +4,10 @@
 
 ### Software Developer | AI & Data Analytics Enthusiast
 
-I build practical web, mobile and AI-powered applications using  
-**Python, FastAPI, React, Flutter and modern data technologies.**
+I build practical **web, mobile, and AI-powered applications** using  
+**Python, FastAPI, React, Flutter, and modern data tools**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%26+FastAPI+Developer;React+%26+Flutter+Developer;AI+%26+Data+Analytics+Enthusiast;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%26+FastAPI+Developer;React+%26+Flutter+Developer;AI+%26+Data+Analytics+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,117 +15,95 @@ I build practical web, mobile and AI-powered applications using
 
 ## 👨‍💻 About Me
 
-```javascript
-const abdikani = {
-  location: "Mogadishu, Somalia",
-  education: "Computer Science Graduate",
-  role: "Software Developer",
-  interests: [
-    "Web Development",
-    "Mobile App Development",
-    "Artificial Intelligence",
-    "Data Analytics"
-  ],
-  currentFocus: [
-    "Building production-ready applications",
-    "Improving backend architecture",
-    "Developing AI-powered solutions",
-    "Strengthening problem-solving skills"
-  ],
-  openTo: "Internship and junior software development opportunities"
-};
-I am a Computer Science graduate focused on building practical digital
-solutions. My current work includes web applications, Flutter mobile apps,
-REST APIs and AI-powered systems.
-I enjoy turning real-world requirements into structured, secure and
-maintainable software.
-🛠️ Technical Skills
-<div align="center">
+- 🎓 Computer Science Graduate
+- 📍 Based in Mogadishu, Somalia
+- 💡 Interested in **Web Development, Mobile Apps, AI, and Data Analytics**
+- 🚀 Currently building **real-world software projects**
+- 🤝 Open to **internships and junior developer opportunities**
 
-Frontend
+---
 
-Mobile Development
-
-Backend
-
-Data, AI and Databases
-
-Tools
-
-</div>
-
-🚀 Featured Projects
-🎓 University Admission Management System
-A web and mobile admission platform designed to manage student applications,
-admission statuses, academic information and administrative operations.
-Key features:
-Online student application
-Role-based access control
-Admission status management
-Student search and record management
-REST API integration
-Responsive web and mobile interfaces
-Technologies: React, Python, FastAPI, MongoDB and Flutter
-🤖 Somali University Admission RAG Chatbot
-An AI-powered chatbot that answers university admission questions using a
-verified knowledge base instead of relying only on general AI knowledge.
-Key features:
-Somali-language question answering
-Retrieval-Augmented Generation
-Semantic document search
-Anti-hallucination controls
-Chat history storage
-Flutter mobile integration
-Automated backend testing
-Technologies: Python, FastAPI, Gemini API, ChromaDB, MongoDB and Flutter
-🏢 Property and Tenancy Management System
-A property management platform for organizing buildings, floors, units,
-tenants, contracts, rent payments and maintenance information.
-Key features:
-Property and unit management
-Tenant records
-Contract tracking
-Role-based dashboards
-Payment and utility management
-Mobile-friendly interface
-📚 Currently Learning
-Advanced JavaScript and React
-Software architecture
-System design fundamentals
-Backend security
-Cloud deployment
-Data analytics
-Production AI application development
-📊 GitHub Statistics
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdikani94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Abdikani's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikani94&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
-
-</div>
+## 🛠 Tech Stack
 
 <div align="center">
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-🎯 Current Goals
-Build modern and production-ready software projects
-Improve backend system design and API security
-Create practical AI and data analytics solutions
-Contribute to open-source projects
-Gain professional experience through internships and junior roles
-🤝 Connect With Me
+---
+
+## 🚀 Featured Projects
+
+### 🎓 University Admission Management System
+A web and mobile admission platform for managing student applications, statuses, and academic records.
+
+**Stack:** React, FastAPI, MongoDB, Flutter
+
+---
+
+### 🤖 Somali University Admission RAG Chatbot
+An AI-powered chatbot that answers university admission questions using a verified knowledge base.
+
+**Stack:** Python, FastAPI, Gemini API, ChromaDB, MongoDB, Flutter
+
+---
+
+### 🏢 Property & Tenancy Management System
+A property management system for handling buildings, units, tenants, contracts, and rent workflows.
+
+**Stack:** Web App Architecture, Dashboard Systems, Data Management
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdikani94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikani94&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready applications
+- Improving backend architecture
+- Learning system design
+- Exploring practical AI solutions
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-Abdikani94-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdikani94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdikani_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdikani-mohamed-9b9637417)
 
-Thanks for visiting my profile 👨‍💻
 </div>
-```
